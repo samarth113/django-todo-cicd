@@ -1,3 +1,6 @@
+## Project - Deployed on AWS EC2 instance using Jenkins with GitHub integration, Docker and Docker Compose
+## URL - 54.146.57.250:8000
+
 # django-todo
 A simple todo app built with django
 
